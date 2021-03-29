@@ -49,7 +49,7 @@ preshed==1.0.1            # via spacy, thinc
 prometheus-client==0.3.1  # via notebook
 prompt-toolkit==1.0.15    # via ipython, jupyter-console
 ptyprocess==0.6.0         # via pexpect, terminado
-pygments==2.2.0           # via ipython, jupyter-console, nbconvert, qtconsole
+pygments==2.7.4           # via ipython, jupyter-console, nbconvert, qtconsole
 pyparsing==2.2.0          # via matplotlib
 python-dateutil==2.7.3    # via jupyter-client, matplotlib, pandas
 pytz==2018.5              # via matplotlib, pandas
