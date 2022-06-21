@@ -38,7 +38,7 @@ murmurhash==0.28.0        # via spacy, thinc
 nbconvert==5.3.1          # via jupyter, notebook
 nbformat==4.4.0           # via ipywidgets, nbconvert, notebook
 notebook==5.6.0           # via jupyter, widgetsnbextension
-numpy==1.15.1
+numpy==1.22.0
 pandas==0.23.4
 pandocfilters==1.4.2      # via nbconvert
 parso==0.3.1              # via jedi
