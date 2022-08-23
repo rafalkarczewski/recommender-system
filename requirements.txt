@@ -35,7 +35,7 @@ mistune==0.8.3            # via nbconvert
 msgpack-numpy==0.4.3.1    # via thinc
 msgpack==0.5.6            # via msgpack-numpy, thinc
 murmurhash==0.28.0        # via spacy, thinc
-nbconvert==5.3.1          # via jupyter, notebook
+nbconvert==6.5.1          # via jupyter, notebook
 nbformat==4.4.0           # via ipywidgets, nbconvert, notebook
 notebook==5.6.0           # via jupyter, widgetsnbextension
 numpy==1.15.1
